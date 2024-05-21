@@ -1,2 +1,2 @@
-require("tunin.remap")
 require("tunin.set")
+require("tunin.remap")
